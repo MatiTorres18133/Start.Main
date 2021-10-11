@@ -290,6 +290,7 @@ justify-content: space-evenly;
 
 .hero_img{
     width: 95%;
+    height: auto;
 
 
 }
@@ -507,6 +508,7 @@ justify-content: space-evenly;
 
 }
 .course_picture{
+    height: 100%;
     
     margin: 0;
     grid-column: 3/-1;
@@ -557,11 +559,15 @@ justify-content: space-evenly;
 
 
 .course_picture--right{
+
+    height: 100%;
     grid-column: 1/4
+    
 
 }
 
 .course_about--left{
+    height: 100%;
     grid-column: 3/-1;
 }
 
@@ -618,6 +624,7 @@ justify-content: space-evenly;
 
 .footer_img{
     width: 100%;
+    height: auto;
 }
 
 
@@ -659,5 +666,4 @@ justify-content: space-evenly;
 }
 
 
-/*ANIMACION*/
 
