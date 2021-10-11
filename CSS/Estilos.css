@@ -298,6 +298,10 @@ justify-content: space-evenly;
     font-size: 4rem;
 
 }
+.hero_title2{
+    font-size: 4rem;
+    font-family:'Audiowide', cursive;
+}
 
 .hero_parrafo{
     font-size: 1.2rem;
@@ -307,6 +311,17 @@ justify-content: space-evenly;
 
 }
 
+.hero_cta2{
+    display: inline-block;
+    background: #444CF7;
+    color: rgb(255, 255, 255);
+    padding: var(--padding-btn);
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+}
+
+
 
 .hero_cta{
     display: inline-block;
@@ -315,6 +330,7 @@ justify-content: space-evenly;
     padding: var(--padding-btn);
     text-align: center;
     text-decoration: none;
+   
 }
 
 
@@ -451,6 +467,7 @@ justify-content: space-evenly;
 .card_title{
     margin: 20px 0;
     font-size: 1.5rem; 
+    
 }
 
 
