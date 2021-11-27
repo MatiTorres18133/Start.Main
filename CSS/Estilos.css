@@ -302,6 +302,7 @@ justify-content: space-evenly;
 .hero_title2{
     font-size: 4rem;
     font-family:'Audiowide', cursive;
+    
 }
 
 .hero_parrafo{
@@ -309,6 +310,18 @@ justify-content: space-evenly;
     margin: 25px 0;
     margin-left: 0%;
     margin-right: 50%;
+
+}
+
+.buton_cta{
+    
+    display: inline-block;
+    background: #444CF7;
+    color: rgb(255, 255, 255);
+    padding: var(--padding-btn);
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
 
 }
 
